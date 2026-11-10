@@ -8,6 +8,7 @@ def power(base, exponent):
 
 a = 2
 n = 4
+y=
 value = power(a, n)
 
 print(f"{a} to the power of {n} is {value}")
